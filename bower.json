@@ -1,0 +1,23 @@
+{
+  "name": "quete_symfony_CRUD",
+  "homepage": "https://github.com/JohanGaub/quete_symfony_CRUD",
+  "authors": [
+    "Johan Gaub <johangaub@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/assets/vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "bootstrap-css": "^3.3.7"
+  }
+}

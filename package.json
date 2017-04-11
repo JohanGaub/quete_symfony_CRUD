@@ -1,0 +1,26 @@
+{
+  "name": "quete_symfony_crud",
+  "version": "1.0.0",
+  "description": "quete_symfony_CRUD ==================",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohanGaub/quete_symfony_CRUD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohanGaub/quete_symfony_CRUD/issues"
+  },
+  "homepage": "https://github.com/JohanGaub/quete_symfony_CRUD#readme"
+}
